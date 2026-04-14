@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://madison-reviews.github.io/CircO2-Reviews-and-Complaints-2026/sitemap.xml
